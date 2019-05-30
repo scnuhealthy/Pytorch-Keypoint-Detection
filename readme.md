@@ -8,15 +8,15 @@
 
 但是如果要实现人体关键点检测的话需要在detection的文件修改一些参数，这里我将修改后的文件和可视化程序附上。
 
-![img1]()
+![img1](https://github.com/scnuhealthy/Pytorch-Keypoint-Detection/blob/master/result/10.jpg)
 
-![img2]()
+![img2](https://github.com/scnuhealthy/Pytorch-Keypoint-Detection/blob/master/result/14.jpg)
 
-![img3]()
+![img3](https://github.com/scnuhealthy/Pytorch-Keypoint-Detection/blob/master/result/5.jpg)
 
-![img4]()
+![img4](https://github.com/scnuhealthy/Pytorch-Keypoint-Detection/blob/master/result/8.jpg)
 
-![img5]()
+![img5](https://github.com/scnuhealthy/Pytorch-Keypoint-Detection/blob/master/result/9.jpg)
 
 #### Dataset
 
